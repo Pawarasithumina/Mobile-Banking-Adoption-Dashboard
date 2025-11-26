@@ -1,4 +1,4 @@
- Mobile Banking Adoption Dashboard – Sri Lanka
+# Mobile Banking Adoption Dashboard – Sri Lanka
 
 This dashboard analyzes how people across Sri Lanka adopt and use mobile banking services. It highlights the impact of demographics, trust, privacy concerns, awareness, and usability on mobile banking usage. The dashboard helps identify which groups are more likely to adopt mobile banking and what factors influence their decisions.
 
